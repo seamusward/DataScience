@@ -1,0 +1,61 @@
+"EV_Models","EV_Type","Acc0to62","Top_Speed_mph","Range_miles","Fuel_Range","Cost_Euros"
+"Model 3 ","Battery Electric Vehicle",5.9,130,205,NA,37691.25
+"Kona Electric 64 kWh","Battery Electric Vehicle",7.6,104,250,NA,46287.5
+"I-Pace ","Battery Electric Vehicle",4.8,124,250,NA,78020.8875
+"e-tron Quattro ","Battery Electric Vehicle",4.6,130,280,NA,89930
+"Leaf ","Battery Electric Vehicle",8.4,89,150,NA,30139.775
+"Model 3 Long Range","Battery Electric Vehicle",5.4,140,280,NA,48271.25
+"e-Golf ","Battery Electric Vehicle",9.6,93,125,NA,36858.075
+"Kona Electric 40 kWh","Battery Electric Vehicle",9.3,104,155,NA,39675
+"Model S 100D","Battery Electric Vehicle",4.3,155,305,NA,108550.8
+"IONIQ Electric","Battery Electric Vehicle",9.9,103,120,NA,33055.8875
+"i3 ","Battery Electric Vehicle",7.3,93,105,NA,39106.325
+"Model X 100D","Battery Electric Vehicle",4.9,155,260,NA,109873.3
+"i3s ","Battery Electric Vehicle",6.9,99,100,NA,42948.1875
+"e-tron Sportback ","Battery Electric Vehicle",4.5,130,280,NA,89930
+"Model S P100D","Battery Electric Vehicle",2.7,155,300,NA,156160.8
+"Air ","Battery Electric Vehicle",5,140,230,NA,80011.25
+"Model S 75D","Battery Electric Vehicle",4.4,140,240,NA,80117.05
+"IONIQ Plug-in","Plug-in Hybrid",10.6,110,26,530,33055.8875
+"Mission E ","Battery Electric Vehicle",3.5,155,280,NA,158700
+"330e iPerformance","Plug-in Hybrid",6.1,140,17,390,43801.2
+"Model X P100D","Battery Electric Vehicle",3.1,155,250,NA,164161.925
+"Prius Plug-in Hybrid","Plug-in Hybrid",11.8,101,25,680,38610.3875
+"Passat GTE ","Plug-in Hybrid",7.4,140,20,490,46194.925
+"Model X 75D","Battery Electric Vehicle",5.2,130,205,NA,87787.55
+"e-NV200 Combi ","Battery Electric Vehicle",14,76,120,NA,32401.25
+"Q7 E-Tron ","Plug-in Hybrid",6.2,146,23,610,89348.1
+"225xe iPerformance Active Tourer","Plug-in Hybrid",6.7,126,12,320,41281.8375
+"e-Up! ","Battery Electric Vehicle",12.4,81,65,NA,27957.65
+"Golf GTE ","Plug-in Hybrid",7.6,138,19,370,38702.9625
+"V60 D6 AWD","Plug-in Hybrid",6,143,18,390,64372.6875
+"A3 Sportback E-Tron ","Plug-in Hybrid",7.6,138,19,370,44918.7125
+"Outlander PHEV ","Plug-in Hybrid",11,106,18,370,42723.3625
+"C-Zero ","Battery Electric Vehicle",15.9,81,55,NA,21153.3875
+"Kangoo Crew Van ZE33","Battery Electric Vehicle",22.4,81,100,NA,35818.59
+"XC-90 T8 Twin-Engine","Plug-in Hybrid",5.9,143,14,410,82662.8625
+"530e iPerformance","Plug-in Hybrid",6.2,146,21,380,55895.4625
+"Passat GTE Estate","Plug-in Hybrid",7.6,140,20,490,48310.925
+"iOn ","Battery Electric Vehicle",15.9,81,55,NA,21153.3875
+"Countryman Cooper S E ALL4","Plug-in Hybrid",6.8,123,16,300,38848.4375
+"Optima Plug-in Hybrid","Plug-in Hybrid",9.4,119,21,520,41652.1375
+"e-NV200 Combi ","Battery Electric Vehicle",14,76,70,NA,32278.2575
+"E 350e Plug-In ","Plug-in Hybrid",6.2,155,12,540,60259.7125
+"Panamera 4 E-Hybrid ","Plug-in Hybrid",4.6,173,21,500,107308.9725
+"GLE 500e Plug-In ","Plug-in Hybrid",5.3,152,12,520,89500.1875
+"740e ","Plug-in Hybrid",5.4,149,15,370,92760.15
+"V60 D5 AWD","Plug-in Hybrid",6.9,130,18,390,48410.1125
+"C 350e Plug-In Saloon","Plug-in Hybrid",5.9,155,16,500,48906.05
+"C 350e Plug-In Estate","Plug-in Hybrid",6.2,153,16,500,50493.05
+"Optima Sportswagon PHEV","Plug-in Hybrid",10,119,23,540,43173.0125
+"Niro PHEV","Plug-in Hybrid",11,107,22,470,37023.3875
+"Soul EV ","Battery Electric Vehicle",11.2,90,110,NA,34378.3875
+"i3 Range Extender","EV with Extender",8.1,93,95,60,43272.2
+"i3s Range Extender","EV with Extender",7.7,99,90,60,47114.0625
+"Niro EV Concept","Battery Electric Vehicle",8,93,215,NA,46287.5
+"I.D. ","Battery Electric Vehicle",8,99,230,NA,34385
+"Zoe R110 ZE40","Battery Electric Vehicle",11.4,84,155,NA,31766.45
+"Zoe Q90 ZE40","Battery Electric Vehicle",13.5,84,145,NA,32758.325
+"EQ fortwo coupe","Battery Electric Vehicle",11.5,81,65,NA,21715.45
+"EQ forfour ","Battery Electric Vehicle",11.8,81,55,NA,22370.0875
+"EQ fortwo cabrio","Battery Electric Vehicle",12.7,81,55,NA,24545.6
